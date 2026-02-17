@@ -55,6 +55,8 @@ For enterprise-level scaling, this project recommends transitioning from Seleniu
 
 ---
 ![alt text](https://github.com/Mohamed-Faroug/whatsapp-validator/blob/main/dfsdfsdfsdf.PNG)
+![alt text](https://github.com/Mohamed-Faroug/whatsapp-validator/blob/main/Capture.PNG)
+![alt text](https://github.com/Mohamed-Faroug/whatsapp-validator/blob/main/dsfsdfsdf.PNG)
 
 ## ⚖️ License
 
