@@ -17,7 +17,7 @@ A Python-based automation suite for generating regional mobile number ranges and
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Mohamed-Faroug/whatsapp-validator.git](https://github.com/Mohamed-Faroug/whatsapp-validator.git)
+    git clone https://github.com/Mohamed-Faroug/whatsapp-validator.git
     cd whatsapp-validator
     ```
 
